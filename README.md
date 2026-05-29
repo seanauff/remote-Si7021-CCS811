@@ -1,3 +1,7 @@
+# Archive notice
+
+I don't use this anymore; instead using esphome. You can view my esphome configs here: https://github.com/seanauff/esphome-devices
+
 # Air quality monitor
 
 Use an ESP8266 to read Si7021 and CCS811 sensors and send data via MQTT in JSON format.
